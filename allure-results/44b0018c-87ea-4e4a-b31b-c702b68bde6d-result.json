@@ -1,0 +1,1 @@
+{"name": "test_login_with_uppercase_password", "status": "passed", "description": "Test user cannot log in with uppercase password.", "start": 1739337538231, "stop": 1739337543862, "uuid": "8e3649c7-6627-4db9-825d-5a0ad6be8977", "testCaseId": "a3a8bd0834920614ca873ab82859053a", "fullName": "test_suite.tests.test_login_page.TestLoginPage#test_login_with_uppercase_password"}
