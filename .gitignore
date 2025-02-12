@@ -1,0 +1,8 @@
+# Ignore .env files everywhere
+.env
+
+# Ignore .env files within the test_suite folder
+test_suite/**/*.env
+
+# Optionally ignore other environment files
+.env.*
